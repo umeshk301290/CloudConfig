@@ -1,0 +1,6 @@
+spring:
+ application:
+  name:caller-service-prod-configuration
+spring:
+ calling:
+  value:caller service prod value
