@@ -1,5 +1,2 @@
-spring:
- application:
-  name:caller-service-prod-configuration
- calling:
-  value:caller service prod value
+spring.application.name=caller-service-config
+spring.calling.value= caller-service value
