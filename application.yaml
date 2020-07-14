@@ -1,6 +1,5 @@
 spring:
  application:
   name:Common-Configuration
-spring:
  calling:
   value:common value
