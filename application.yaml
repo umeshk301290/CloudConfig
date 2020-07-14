@@ -1,5 +1,2 @@
-spring:
- application:
-  name:Common-Configuration
- calling:
-  value:common value
+spring.application.name=common-config
+spring.calling.value= common value
