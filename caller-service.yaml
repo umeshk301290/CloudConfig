@@ -1,5 +1,0 @@
-spring:
- application:
-  name:caller-service-configuration
- calling:
-  value:common value
