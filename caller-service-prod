@@ -1,0 +1,3 @@
+spring.application.name=Caller-service-prod-Configuration
+spring.calling.value= caller-service-prod-value
+logging.level.root=INFO
